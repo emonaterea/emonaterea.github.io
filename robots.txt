@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emonaterea.github.io/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/app/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/assets/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/css/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/includes/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/item/sitemap.html.gz
+Sitemap: https://emonaterea.github.io/src/sitemap.html.gz
